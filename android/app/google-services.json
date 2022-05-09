@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705054314555",
+    "firebase_url": "https://pamoja-101010-default-rtdb.firebaseio.com",
+    "project_id": "pamoja-101010",
+    "storage_bucket": "pamoja-101010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705054314555:android:efe745b37ef5ad7ac08c1e",
+        "android_client_info": {
+          "package_name": "com.example.pamoja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705054314555-9cj7ttklmpfl24oajumkbsfj92d5602a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKaFgWFb80_QNStERqmBtMpJsvdVazKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705054314555-9cj7ttklmpfl24oajumkbsfj92d5602a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
